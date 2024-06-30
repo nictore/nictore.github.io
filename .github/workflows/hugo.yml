@@ -33,6 +33,7 @@ defaults:
 jobs:
   # Build job
   build:
+    name: github-pages
     runs-on: ubuntu-latest
     env:
       HUGO_VERSION: 0.123.0
