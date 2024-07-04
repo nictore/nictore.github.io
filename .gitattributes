@@ -7,6 +7,8 @@ assets/**	filter=git-crypt diff=git-crypt
 content/**	filter=git-crypt diff=git-crypt
 layouts/**	filter=git-crypt diff=git-crypt
 static/**	filter=git-crypt diff=git-crypt
+i18n/**     filter=git-crypt diff=git-crypt
+icons/**    filter=git-crypt diff=git-crypt
 
 # The .gitattributes file must not be encrypted
 .gitattributes !filter !diff
