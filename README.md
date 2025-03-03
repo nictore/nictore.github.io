@@ -1,3 +1,3 @@
 # Personal Site
 
-Visit [site](https://iamdpastore.github.io)
+Visit [site](https://nictore.github.io)
